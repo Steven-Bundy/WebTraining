@@ -29,6 +29,5 @@ namespace ChallengeConditionalRadioButton
                 : (tabletRadioButton.Checked) ? "~/Images/tablet.png"
                 : "";
         }
-
     }
 }
