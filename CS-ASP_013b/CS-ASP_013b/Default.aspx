@@ -11,7 +11,7 @@
         <div>
             Is
             <asp:TextBox ID="firstTextBox" runat="server"></asp:TextBox>
-            <asp:Label ID="comparisonTypeLabel" runat="server" Text="Label"></asp:Label>
+            <asp:Label ID="comparisonTypeLabel" runat="server"></asp:Label>
             <asp:TextBox ID="secondTextBox" runat="server"></asp:TextBox>
             ?<br />
             <br />
